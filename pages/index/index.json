@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "swiper": "/components/swiper/swiper",
+    "search": "/components/search/search",
+    "pannel": "/components/pannel/pannel"
+  },
+  "onReachBottomDistance": 50
+}

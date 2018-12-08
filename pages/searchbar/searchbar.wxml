@@ -1,0 +1,3 @@
+<!--pages/searchbar/searchbar.wxml-->
+<text>这个是搜索页</text>
+<text>{{id}}</text>
